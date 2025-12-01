@@ -23,3 +23,9 @@ git status - статус коммитов
 git add * - добавления файла для коммита
 
 git commit - коммит
+
+## Если не отображает то добавить имя и почту от гита
+
+git config --global user.name "Your Name" - добавление имени
+
+git config --global user.email "youremail@yourdomain.com" - добавлепние почты
