@@ -1,0 +1,38 @@
+graph TD
+    A[Клиент] --> E1
+    
+    subgraph API
+        E1[REST API InverCals]
+        E2[CalsController]
+        
+    end
+
+    subgraph Service
+        C1[LocalCalsService]
+        C2[CloudCalsService]
+        C3[SensitivityService]
+        C4[CompareService]
+    end
+    
+    subgraph Models
+        D1[CalsRequest]
+        D2[CalsResponse]
+    end
+
+    E1 --> E2
+
+    E2 --> C1
+    E2 --> C2
+    E2 --> C3
+    E2 --> C4
+
+    C1 --> D1
+    C2 --> D1
+    C3 --> D1
+    C4 --> D1
+    C1 --> D2
+    C2 --> D2
+    C3 --> D2
+    C4 --> D2
+
+    API --> Doker[Doker Container]
