@@ -20,6 +20,10 @@ API доступен по адресу:
 ## Команды подключения к уджаленому репозиторию:
 
 cd Desktop
+
 git remote add origin https://github.com/Tea-World/Economic-bottom.git - подключение к репозиторию
+
 git chekout _ - изменение ветки
+
 git pull - обновление данных с репозитория
+
