@@ -4,13 +4,18 @@ https://olgakraven.github.io/DKIP-GroupProject/practice1/
 
 # Команды подключения к удаленому репозиторию:
 
-cd Desktop
+1) cd Desktop
 
-git remote add origin https://github.com/Tea-World/Economic-bottom.git - подключение к репозиторию
+2) git clone https://github.com/Tea-World/Economic-bottom.git - клонировать репозиторий на пк
+
+3) сd Economic-bottom
+
+4) git pull - обновление данных ветки с репозитория
+
+
+git remote add origin https://github.com/Tea-World/Economic-bottom.git - подключение к репозиторию(не надо)
 
 git chekout _ - изменение ветки
-
-git pull - обновление данных ветки с репозитория
 
 git merge <имя_ветки_с_изменениями> - объединение веток
 
