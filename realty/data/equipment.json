@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "inventoryNumber": "PC-001",
+    "name": "\u0420\u0430\u0431\u043E\u0447\u0430\u044F \u0441\u0442\u0430\u043D\u0446\u0438\u044F \u0431\u0443\u0445\u0433\u0430\u043B\u0442\u0435\u0440\u0430",
+    "type": "\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440",
+    "manufacturer": "Dell",
+    "model": "OptiPlex 7090",
+    "serialNumber": "SN-DEL-7090-001",
+    "location": "\u041A\u0430\u0431\u0438\u043D\u0435\u0442 203",
+    "status": "\u0412 \u044D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u0438",
+    "purchaseDate": "2022-09-15T00:00:00",
+    "warrantyEndDate": "2025-09-15T00:00:00",
+    "comment": "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442\u0441\u044F \u0434\u043B\u044F \u0440\u0430\u0431\u043E\u0442\u044B \u0441 1\u0421"
+  },
+  {
+    "id": 2,
+    "inventoryNumber": "PR-014",
+    "name": "\u0421\u0435\u0442\u0435\u0432\u043E\u0439 \u043F\u0440\u0438\u043D\u0442\u0435\u0440",
+    "type": "\u041F\u0440\u0438\u043D\u0442\u0435\u0440",
+    "manufacturer": "HP",
+    "model": "LaserJet Pro M404dn",
+    "serialNumber": "SN-HP-404-014",
+    "location": "\u041A\u0430\u0431\u0438\u043D\u0435\u0442 101",
+    "status": "\u0412 \u044D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u0438",
+    "purchaseDate": "2021-03-10T00:00:00",
+    "warrantyEndDate": "2024-03-10T00:00:00",
+    "comment": "\u041E\u0431\u0449\u0438\u0439 \u043F\u0440\u0438\u043D\u0442\u0435\u0440 \u043E\u0442\u0434\u0435\u043B\u0430"
+  },
+  {
+    "id": 3,
+    "inventoryNumber": "PC-101",
+    "name": "\u0423\u0447\u0435\u0431\u043D\u044B\u0439 \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440",
+    "type": "\u041A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440",
+    "manufacturer": "Lenovo",
+    "model": "ThinkCentre",
+    "serialNumber": "SN-101",
+    "location": "\u0410\u0443\u0434\u0438\u0442\u043E\u0440\u0438\u044F 202",
+    "status": "\u0412 \u044D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u0438",
+    "purchaseDate": "2023-09-01T00:00:00",
+    "warrantyEndDate": "2026-09-01T00:00:00",
+    "comment": "\u0414\u043E\u0431\u0430\u0432\u043B\u0435\u043D\u043E \u0447\u0435\u0440\u0435\u0437 Swagger"
+  }
+]

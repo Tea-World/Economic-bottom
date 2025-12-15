@@ -15,4 +15,3 @@ dotnet run --project srt/api/api.cspro
 API доступен по адресу: 
 
 Документация Swagger: 
-
